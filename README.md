@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @stanleyalausa A Crypto and Ai Educator as well as a Data Analyst 
+- 👀 I’m interested in Blockchain development and Data Analysis
+- 🌱 I’m currently learning Blockchain development on Solidity
+- 💞️ I’m looking to collaborate on Content marketing, Promotions and   Monetization
+- 📫 Reach me on Twitter at https://twitter.com/StanleyAlausa
